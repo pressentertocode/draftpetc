@@ -160,6 +160,7 @@ body {
    .hero-card1 {
     background:linear-gradient(135deg,#FFBB00,#f7931e);
     color:white;
+    padding-bottom: 22px !important;
 }
 
 .hero-top1 {
